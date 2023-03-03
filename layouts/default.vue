@@ -5,7 +5,7 @@ useHead({
 })
 </script>
 <template>
-  <main>
+  <main class="h-full">
     <TheHeader />
     <slot />
   </main>
